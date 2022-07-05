@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 # Contact
 Email: crs53@york.ac.uk \
-Github: [crs553](https://github.com/crs553)
+[Github](https://github.com/crs553)
