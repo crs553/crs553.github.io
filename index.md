@@ -35,3 +35,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 # Contact
 Email: crs553@york.ac.uk \
 [Github](https://github.com/crs553)
+
+# Projects
+[Towards an Argument Knowledge Base for Autonomous Debating Systems](https://github.com/crs553/Towards-Automatic-Argument-Mining)
