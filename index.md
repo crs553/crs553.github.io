@@ -36,10 +36,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Email: crs553@york.ac.uk \
 [Github](https://github.com/crs553)
 
+# Paper
+[Towards an Argument Knowledge Base for Autonomous Debating Systems](https://cmna-workshop.github.io/cmna22/assets/papers/0273-Stubbs_Yuan.pdf)
+
 # Projects
 [Towards an Argument Knowledge Base for Autonomous Debating Systems](https://github.com/crs553/Towards-Automatic-Argument-Mining)
 \
 [Game - Auber](https://github.com/crs553/runtimeerrors-two)
-
-# Paper
-[Towards an Argument Knowledge Base for Autonomous Debating Systems](https://cmna-workshop.github.io/cmna22/assets/papers/0273-Stubbs_Yuan.pdf)
