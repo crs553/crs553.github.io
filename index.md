@@ -33,7 +33,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crs553/crs553.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
 
 # Contact
-Email: crs553@york.ac.uk \
+Email: contact@charlierstubbs.com \
 [Github](https://github.com/crs553)
 
 # Paper
