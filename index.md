@@ -37,9 +37,8 @@ Email: contact@charlierstubbs.com \
 [Github](https://github.com/crs553)
 
 # Paper
-[Towards an Argument Knowledge Base for Autonomous Debating Systems](https://cmna-workshop.github.io/cmna22/assets/papers/0273-Stubbs_Yuan.pdf)
+- [Towards an Argument Knowledge Base for Autonomous Debating Systems](https://cmna-workshop.github.io/cmna22/assets/papers/0273-Stubbs_Yuan.pdf)
 
 # Projects
-[Towards an Argument Knowledge Base for Autonomous Debating Systems](https://github.com/crs553/Towards-Automatic-Argument-Mining)
-\
-[Game - Auber](https://github.com/crs553/runtimeerrors-two)
+- (Repository) [Towards an Argument Knowledge Base for Autonomous Debating Systems](https://github.com/crs553/Towards-Automatic-Argument-Mining)
+- [Game - Auber](https://github.com/crs553/runtimeerrors-two)
