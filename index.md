@@ -41,4 +41,5 @@ Email: contact@charlierstubbs.com \
 
 # Projects
 - (Repository) [Towards an Argument Knowledge Base for Autonomous Debating Systems](https://github.com/crs553/Towards-Automatic-Argument-Mining)
+- [PiCamera](https://picamera.readthedocs.io/en/release-1.13/)
 - [Game - Auber](https://github.com/crs553/runtimeerrors-two)
