@@ -30,6 +30,35 @@ header {
   margin-bottom: 2rem;
 }
 
+/* Header Layout */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+
+.header-text {
+  flex-grow: 1;
+}
+
+.contact-icons {
+  display: flex;
+  gap: 1rem;
+}
+
+.contact-icons a img {
+  width: 32px;
+  height: 32px;
+  transition: transform 0.2s ease;
+}
+
+.contact-icons a:hover img {
+  transform: scale(1.1);
+}
+
+
 .subtitle {
   font-size: 1rem;
   color: #666;
