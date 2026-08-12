@@ -48,6 +48,27 @@ header {
   gap: 1rem;
 }
 
+.nav {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  flex-grow: 1;
+}
+
+.nav a {
+  color: #555;
+  font-size: 0.95rem;
+}
+
+.nav a:hover {
+  color: #007acc;
+}
+
+.nav a[aria-current="page"] {
+  color: #007acc;
+  font-weight: 600;
+}
+
 .contact-icons a img {
   width: 32px;
   height: 32px;
@@ -107,5 +128,14 @@ a:hover {
   margin-top: 0.25rem;
   margin-bottom: 1rem;
   padding-left: 1em; /* aligns nicely under the bullet */
+}
+
+/* Post Content */
+.post-content {
+  margin-top: 1rem;
+}
+
+.post-content p {
+  margin-bottom: 1rem;
 }
 
