@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Websockets - Introduction
-date: 2026-08-12
+date: 2026-09-02
 ---
 
 This article is the first in a series on understanding WebSockets.
