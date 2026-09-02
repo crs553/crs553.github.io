@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Websockets - Intriduction
+title: Websockets - Introduction
 date: 2026-08-12
 ---
 
